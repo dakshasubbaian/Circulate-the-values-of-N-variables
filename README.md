@@ -30,7 +30,7 @@ def circulate():
 ```
 
 ## OUTPUT:
-![output](/output1b\).png)
+![output](/output.png).png)
 
 
 ## RESULT:
