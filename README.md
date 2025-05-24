@@ -30,7 +30,8 @@ def circulate():
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/cbd69058-b4e4-44dd-b33d-6c79cff14441)
+![image](https://github.com/user-attachments/assets/07b123d7-dcec-461d-a0f3-8a34cc176731)
+
 
 
 
