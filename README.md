@@ -22,7 +22,7 @@ End of the program
 ```
 #Program to circulate N values.
 #Developed by:Daksha Subbaian
-#RegisterNumber:23003584
+#RegisterNumber:212223230036
 def circulate():
     x=eval(input())
     n=int(input())
@@ -30,7 +30,8 @@ def circulate():
 ```
 
 ## OUTPUT:
-![output](/output.png).png)
+![image](https://github.com/user-attachments/assets/cbd69058-b4e4-44dd-b33d-6c79cff14441)
+
 
 
 ## RESULT:
